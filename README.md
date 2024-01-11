@@ -27,10 +27,10 @@ Front-end Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/nmollabd"><img src="https://github-readme-stats.vercel.app/api?username=nmollabd&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=84cc16&icon_color=facc15&bg_color=ffffff&hide_border=true&show_icons=true" alt="nmollabd's GitHub stats" /></a>
+<a href="http://www.github.com/nmollabd"><img src="https://github-readme-stats.vercel.app/api?username=nmollabd&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=84cc16&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="nmollabd's GitHub stats" /></a>
 
-<a href="http://www.github.com/nmollabd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nmollabd&stroke=84cc16&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=84cc16&currStreakLabel=ef4444&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
+<a href="http://www.github.com/nmollabd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nmollabd&stroke=84cc16&background=000000&ring=ef4444&fire=ef4444&currStreakNum=84cc16&currStreakLabel=ef4444&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
 
-<a href="http://www.github.com/nmollabd"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nmollabd&bg_color=ffffff&color=84cc16&line=facc15&point=84cc16&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/nmollabd"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nmollabd&bg_color=000000&color=84cc16&line=facc15&point=84cc16&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/nmollabd" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmollabd&langs_count=10&title_color=ef4444&text_color=84cc16&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/nmollabd" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmollabd&langs_count=10&title_color=ef4444&text_color=84cc16&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
