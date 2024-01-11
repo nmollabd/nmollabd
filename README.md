@@ -1,4 +1,4 @@
-<h3>Hi,<br>My name is Naim Islam 👋</h3>
+<h3>Hi There, <br>My Name Is Name Islam 👋</h3>
 <p>With over 3 years of expertise in Front-End Design, I have acquired the skills necessary to effectively manage and execute a wide range of projects as a Front-End Developer.</p>
 
 ### Skills
